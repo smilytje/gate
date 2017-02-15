@@ -1,0 +1,15 @@
+#NAME	      DNS / IP             LOGIN-NAME
+ssc-as-01    172.16.12.5          netwerk
+ssc-as-02    172.16.12.6          netwerk
+ssc-as-03    172.16.12.7          netwerk
+ssc-as-04    172.16.12.8          netwerk
+ssc-as-05    172.16.12.9          netwerk
+ssc-as-06    172.16.12.10         netwerk
+ssc-as-07    172.16.12.11         netwerk
+ssc-as-08    172.16.12.12         netwerk
+ssc-as-09    172.16.12.13         netwerk
+ssc-as-10    172.16.12.14         netwerk
+ssc-as-TB    172.16.12.47         netwerk
+ssc-cs-01    172.16.12.254        netwerk
+ssc-fw-01    172.16.254.1         root
+proxy        172.16.12.170        root
